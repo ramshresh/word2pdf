@@ -1,8 +1,6 @@
 from tkinter import *
 from tkinter.ttk import *
 from tkinter.filedialog import askopenfile 
-import time
-from docx2pdf import convert
 from tkinter import filedialog
 import os
 # Compile with :   
